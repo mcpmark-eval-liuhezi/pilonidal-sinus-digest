@@ -21,3 +21,11 @@ Source language detected: English (en) — detection confidence 99.94%.
 - **Publication Date:** 2026
 - **Title (Italian):** Opportunità socioeconomiche del quartiere e quadro clinico, recidiva e intensità del trattamento longitudinale nella malattia pilonidale adolescenziale.
 - **Title (Chinese):** 社区社会经济机会与青少年骶尾部囊肿的临床表现、复发及纵向治疗强度。
+
+## Translation Review Status
+
+Translations prepared for the partner hospital in Milan (Italian edition) and the Beijing team (Chinese edition). This update flags the digest for multilingual translation review.
+
+- Italian edition (Milan partner hospital): anchor study title and top search result title translated to it-IT.
+- Chinese edition (Beijing team): anchor study title and top search result title translated to zh-CN.
+- Source language of both titles: English (en), confirmed by automated detection.
